@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Drullkus/NBT-Ingredient-Predicate/issues"
+[[mods]]
+modId="nbt_ingredient_predicate"
+version="${file.jarVersion}"
+displayName="NBT Ingredient Predicate"
+# A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+displayURL="https://twitter.com/Drullkus"
+authors="Drullkus"
+description='''
+Use "nbt_ingredient_predicate:nbt_includes" instead of "forge:nbt" to enable ingredient NBT soft-including instead of hard-equality.
+'''
